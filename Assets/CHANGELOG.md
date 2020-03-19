@@ -1,5 +1,14 @@
 # Changelog
 
+## [6.12.0-preview.5] - 2020-03-19
+
+v6.12.0 Preview.5
+
+### Fixes
+
+* Tweak AppDependencies.xml
+    * Remove unnecessary (maybe) package
+
 ## [6.12.0-preview.4] - 2020-03-19
 
 v6.12.0 Preview.4
