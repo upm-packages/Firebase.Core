@@ -1,5 +1,13 @@
 # Changelog
 
+## [6.12.0-preview.4] - 2020-03-19
+
+v6.12.0 Preview.4
+
+### Changes
+
+* Apply changes by Unity
+
 ## [6.12.0-preview.3] - 2020-03-19
 
 v6.12.0 Preview.3
