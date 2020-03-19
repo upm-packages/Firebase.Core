@@ -1,5 +1,15 @@
 # Changelog
 
+## [6.12.0-preview.3] - 2020-03-19
+
+v6.12.0 Preview.3
+
+### Changes
+
+* Upgrade PlayServicesResolver dlls
+    * Fix resolving `JavaHome`
+    * https://github.com/googlesamples/unity-jar-resolver/commit/2d6a8cf8c74243342431c6f70c040702016e82c7
+
 ## [6.12.0-preview.2] - 2020-03-19
 
 v6.12.0 Preview.2
