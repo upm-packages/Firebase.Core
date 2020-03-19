@@ -1,0 +1,20 @@
+{
+  "name": "com.google.firebase.core",
+  "displayName": "Firebase Core",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "Core Modules of Firebase SDK for Unity",
+  "author": {
+    "name": "Google, Inc.",
+    "url": "https://google.com/",
+    "email": "noreply@google.com"
+  },
+  "license": "Apache-2.0",
+  "keywords": [],
+  "category": "",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upm-packages/Firebase.Core"
+  }
+}
