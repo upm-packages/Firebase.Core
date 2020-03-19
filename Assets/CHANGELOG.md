@@ -1,5 +1,14 @@
 # Changelog
 
+## [6.12.0-preview.6] - 2020-03-19
+
+v6.12.0 Preview.6
+
+### Changes
+
+* Revert changes for AppDependencies.xml
+    * There is no problem even if it is set because dependency resolution is performed automatically
+
 ## [6.12.0-preview.5] - 2020-03-19
 
 v6.12.0 Preview.5
