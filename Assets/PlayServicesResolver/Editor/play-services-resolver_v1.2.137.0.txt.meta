@@ -1,11 +1,12 @@
 fileFormatVersion: 2
-guid: 54730702a56740858922d24dc3f26918
+guid: f77fd22b76154b648ff4d5663fd1c519
 labels:
+- gvh_version-1.2.137.0
 - gvh
 - gvh_manifest
-- gvh_version-1.2.135.0
+timeCreated: 1474401009
+licenseType: Pro
 TextScriptImporter:
-  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
